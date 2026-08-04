@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Tiwari Restaurant</title>
+<title>Home Food </title>
 
 <style>
 *{
@@ -119,7 +119,7 @@ footer{
 <body>
 
 <header>
-    <h1>Tiwari Restaurant</h1>
+    <h1>Home Food</h1>
     <p>Fresh Food • Great Taste • Fast Service</p>
 </header>
 
@@ -151,14 +151,14 @@ footer{
         <div class="card">
             <h3>Paneer Butter Masala</h3>
             <p>Rich & Creamy Paneer Curry</p>
-            <div class="price">₹220</div>
+            <div class="price">₹200</div>
             <button>Order Now</button>
         </div>
 
         <div class="card">
             <h3>Veg Biryani</h3>
             <p>Spicy Dum Biryani</p>
-            <div class="price">₹180</div>
+            <div class="price">₹150</div>
             <button>Order Now</button>
         </div>
 
@@ -205,7 +205,7 @@ footer{
 </section>
 
 <footer>
-    © 2026 Tiwari Restaurant | All Rights Reserved
+    © 2026 Home Food | All Rights Reserved
 </footer>
 
 </body>
