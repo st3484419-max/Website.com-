@@ -131,7 +131,7 @@ footer{
 </nav>
 
 <div class="hero" id="home">
-    <h1>Welcome to Tiwari Restaurant</h1>
+    <h1>Welcome to Home Food Restaurant for a luxurious experience 😸 </h1>
 </div>
 
 <section id="about">
